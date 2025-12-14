@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "Voyager",
+  "base_artist": "SaToMansion",
+  "createdAt": "2025-12-14T05:28:44.277642Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Voyager",
+      "artist": "Son Lux feat. Mitchell L. H. Douglas",
+      "has_synced": true,
+      "path": "select/01_Voyager_Son_Lux_feat._Mitchell_L._H._Douglas.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Voyager (Feat. Mitchell LH Douglas)",
+      "artist": "Son Lux",
+      "has_synced": true,
+      "path": "select/02_Voyager_(Feat._Mitchell_LH_Douglas)_Son_Lux.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Voyager Tagaloa",
+      "artist": "Mark Mancina feat. Opetaia Foa'i",
+      "has_synced": true,
+      "path": "select/03_Voyager_Tagaloa_Mark_Mancina_feat._Opetaia_Foa'i.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Voyager Tagaloa",
+      "artist": "Mark Mancina",
+      "has_synced": true,
+      "path": "select/04_Voyager_Tagaloa_Mark_Mancina.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Kirlian Voyager",
+      "artist": "The Flashbulb",
+      "has_synced": true,
+      "path": "select/05_Kirlian_Voyager_The_Flashbulb.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Voyager",
+      "artist": "Alphaville",
+      "has_synced": false,
+      "path": "select/06_The_Voyager_Alphaville.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Voyager (Demo Remix)",
+      "artist": "Alphaville",
+      "has_synced": false,
+      "path": "select/07_The_Voyager_(Demo_Remix)_Alphaville.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I, Voyager",
+      "artist": "Nevermore",
+      "has_synced": true,
+      "path": "select/08_I,_Voyager_Nevermore.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Voyager",
+      "artist": "Angels & Airwaves",
+      "has_synced": false,
+      "path": "select/09_Voyager_Angels_&_Airwaves.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Voyager",
+      "artist": "SaToMansion",
+      "has_synced": false,
+      "path": "select/pl_01_Voyager_SaToMansion.txt"
+    }
+  ]
+}
